@@ -4,7 +4,7 @@ Welcome to my personal blog, built using **Jekyll** and hosted on **GitHub Pages
 Here, I share my thoughts on **Flutter**, **Backend Development**, and everything in between.
 
 ## 🌍 Live Website
-Check it out: [yourdomain.com](https://yourdomain.com)  
+Check it out: [peexforge.github.io](https://peexforge.github.io/)  
 
 ## 📖 Latest Posts
 Find my latest posts in the `_posts` directory or visit the blog itself!
