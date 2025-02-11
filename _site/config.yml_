@@ -1,0 +1,11 @@
+title: "PeexForge Blog"
+description: "Sharing my journey in Flutter, Backend, and Open Source!"
+remote_theme: "mmistakes/minimal-mistakes"
+author: "Alireza"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
