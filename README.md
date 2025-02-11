@@ -22,9 +22,9 @@ bundle install
 
 # Serve the blog locally
 bundle exec jekyll serve
-
+‍‍‍‍‍‍
 Then, open http://localhost:4000 in your browser.
-
+```
 🛠️ Tech Stack
 
     Jekyll - Static Site Generator
